@@ -2,7 +2,7 @@
 #import "ABKInAppMessage.h"
 
 // Customize this to set the font for the in-app message message.
-#define MessageLabelDefaultFont [UIFont fontWithName:@"Avenir-Medium" size:14.0]
+#define MessageLabelDefaultFont [UIFont fontWithName:@"ArialMT" size:14.0]
 
 NS_ASSUME_NONNULL_BEGIN
 @interface ABKInAppMessageViewController : UIViewController
